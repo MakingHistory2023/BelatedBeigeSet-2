@@ -1,6 +1,6 @@
 using System;
 
-class PersonalInfo {
+class Program {
   public static void Main (string[] args) {
     Console.WriteLine ("Chris Johnson");
     Console.WriteLine ("12/01/1987");
